@@ -33,7 +33,7 @@
   Open your terminal and run "node index.js" in the command line.
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
-  [![Screencastify Video Demo](https://drive.google.com/file/d/1I2LmRxtOHU12Xyjtpva_jfd0vtq4QRwD/view)]
+  [Screencastify Video Demo](https://drive.google.com/file/d/1I2LmRxtOHU12Xyjtpva_jfd0vtq4QRwD/view)
   
   ![example of created README.md](./images/generated-README.png)
 
